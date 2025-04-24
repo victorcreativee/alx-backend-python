@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """
-This module contains a single function `add` which returns the sum of two floats.
+This module contains a single function `add`
+which returns the sum of two floats.
 """
 
 
@@ -15,5 +16,5 @@ def add(a: float, b: float) -> float:
     Returns:
         float: The sum of a and b.
     """
-    return a + b
 
+    return a + b
